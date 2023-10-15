@@ -1,7 +1,7 @@
 [
 {
 		"title": "on art made with software",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/on-art-made-with-software/",
 		"content": "new media art\nfound images, found sounds and found texts",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Big Bang Nucleosynthesis",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/big-bang-nucleosynthesis/",
 		"content": "Some neutrons combine with other neutrons to make more stable configurations.\nOther neutrons decay into protons.\nElectrons are not bound because of high energy.\n75% hydrogen, 25% helium\n87% protons, 13% neutrons",
 		"tags": [ "note"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Cosmic Microwave Background",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/cosmic-microwave-background/",
 		"content": "Temperature of the universe cools down to 3000K. This reduces the energy of electrons so they bind to the nucleus and first atoms are created.\nPhotons become free to move around and light is observed.",
 		"tags": [ "note"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Fields",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/fields/",
 		"content": "A fluid like substance\nspread everywhere in the universe\nhas a value at every point in space\nchanges over time\nFundamental building blocks of the universe are Fields\nThe best theories in physics rely on Fields rather than particles",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "Heisenberg Uncertainty Principle",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/heisenberg-uncertainty-principle/",
 		"content": "Conjugate variables have complementarity, which means that they cannot be measured at the same time.\nFor example, frequency and time are conjugate. To measure frequency more accurately you need to spend more time.\nIt is only possible to certainly measure one of either position or momentum of a particle.\nThis is not due to a limitation of measuring devices.\nWhen the position is known accurately, the momentum becomes uncertain and vice versa.\nUncertainty principle is explained by the mathematical fact that the wave function of momentum is the <a class=\"internal-link is-unresolved\" href=\"/404\">Fourier transform</a> of the wave function of position.\nOne possible explanation as to why this happens in below\nto know position of something you have to shine light on it\nat quantum scales, light is made of photons which have energy and momentum\nThere are two scenarios\nsmaller wavelength light will have high energy photons\ncan get a good image Δx is low but since the photon is high energy it moves the particle and Δp becomes high\nhigher wavelength light will have low energy photons\nwill get a blurry image Δx is high but since the photon is low energy it doesn't move the particle and Δp becomes low",
 		"tags": [ "note"]
@@ -41,7 +41,7 @@
 
 {
 		"title": "Quantum Circuits",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/quantum-circuits/",
 		"content": "The simplest quantum circuit is the Quantum Wire\nSystems which make good quantum wires are difficult to build quantum gates for.\nOne of these systems is a <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/neutrino/\">neutrino</a>",
 		"tags": [ "note"]
@@ -49,7 +49,7 @@
 
 {
 		"title": "Quantum Entanglement",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/quantum-entanglement/",
 		"content": "Two particles interact with each other and get linked in a manner that measuring one particle allows us to instantaneously know what the other particle will be irrespective of the distance between them\nEinstein (EPR) thought the particles had hidden variables and called this spooky action at a distance. But since then it has been shown through experiments based on the <a class=\"internal-link is-unresolved\" href=\"/404\">Bell inequality test</a> that this is not true and non locality exists.\nAfter entanglement, the particles do not remain distinct entities and are described by the same wave function. So it makes no sense to theorize that they are communicating across a distance.",
 		"tags": [ "note"]
@@ -57,7 +57,7 @@
 
 {
 		"title": "Quantum Field Theory",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/quantum-field-theory/",
 		"content": "A theory that combines Quantum Mechanics with Faraday's idea of <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/fields/\">Fields</a>",
 		"tags": [ "note"]
@@ -65,7 +65,7 @@
 
 {
 		"title": "Quantum State",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/quantum-state/",
 		"content": "The state of a <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/qubit/\">qubit</a> is a vector of unit length in 2D complex vector space called state space\nThere are two basis states |0⟩ and |1⟩ and several superposition states for eg. 0.6|0⟩+−0.8|1⟩\nQ. What is the meaning of the quantum state",
 		"tags": [ "note"]
@@ -73,7 +73,7 @@
 
 {
 		"title": "Quantum tunnelling",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/quantum-tunnelling/",
 		"content": "Particle have a probability to move (are they actually moving?) through a barrier, given the barrier is thin enough.\nNuclear fusion in the sun, when two hydrogen molecules combine to produce helium, happens with quantum tunnelling.",
 		"tags": [ "note"]
@@ -81,7 +81,7 @@
 
 {
 		"title": "Stern-Gerlach Experiment",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/stern-gerlach-experiment/",
 		"content": "",
 		"tags": [ "note"]
@@ -89,7 +89,7 @@
 
 {
 		"title": "computers are a fundamental feature of the universe",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/",
 		"content": "David Hilbert\nis there an algorithm to find out if a mathematical theorem is provable\nAlan Turing\nthere is a general purpose computing device that can follow any algorithm\nDavid Deutsch\nIs there a (single) universal computing device which can efficiently simulate any other physical system?",
 		"tags": [ "note"]
@@ -97,7 +97,7 @@
 
 {
 		"title": "day 1",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-1/",
 		"content": "Today will be the first day of this one month long learning challenge.\nInitially I had thought of using substack for publishing my daily learning notes, but obsidian seems like a much better idea for further refinement and continued learning.\nA list of interesting points\n\nHumans are a mathematical anomaly[1]\n\ndo we romanticise being made of stardust? short answer, yes.\n\nsingularity is a tricky concept. highly possible for it not to exist.\nthere is a smallest unit of time. one Planck time.\ngrand unified force is a khichdi of electromagnetic, gravitation, weak and strong force.\n\nwhat is the naming convention being weak and strong forces?\n\nInformation cannot travel faster than light but space can.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">causality</a>\n\nwhere does mass come from\n\nHiggs Field being massless vs gaining non zero potential\n\nThere are more particles than anti particles\n\nthis is a huge reason for why the universe is the way it is\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/big-bang-nucleosynthesis/\">Big Bang Nucleosynthesis</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/cosmic-microwave-background/\">Cosmic Microwave Background</a>\nQuantum mechanics predicts all the elements in the periodic table[2]\n\nFootnotes\n\nhttps://www.youtube.com/watch?v=YCQPw9pbZnk ↩︎\n\nhttps://www.youtube.com/watch?v=tq_y1qOmUBE ↩︎",
 		"tags": [ "note"]
@@ -105,7 +105,7 @@
 
 {
 		"title": "day 2",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-2/",
 		"content": "I started to read Quantum Country today. I think it is a much better resource for me compared to watching videos. It is also quite an interesting approach to learning so I am looking forward to progressing with it.\nThings noted from today's videos\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">Deterministic world</a> vs <a class=\"internal-link is-unresolved\" href=\"/404\">Probabilistic world</a>\nMeasurement collapses the wave function\n\nIt is not actually known how this happens\n\nSuperposition and the double slip experiment\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-entanglement/\">Quantum Entanglement</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-tunnelling/\">Quantum tunnelling</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/heisenberg-uncertainty-principle/\">Heisenberg Uncertainty Principle</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/\">computers are a fundamental feature of the universe</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/qubit/\">qubit</a>",
 		"tags": [ "note"]
@@ -113,7 +113,7 @@
 
 {
 		"title": "day 3",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-3/",
 		"content": "I was planning to make some progress with Quantum Country today as well but then I got hit with some biology happening in my uterus so could not proceed. But here are a few observations from today\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-field-theory/\">Quantum Field Theory</a>\nThere are 3 fundamental particles ( well 12 actually )\n\nlightest\n\nheaviest\n\nelectron\nmuon\ntau\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/neutrino/\">neutrino</a>\nmuon quark\ntau quark\n\nup quark\nstrange quark\nbottom quark\n\ndown quark\ncharm quark\nup quark\n\nforces\nfields\n\ngravity\nspace time\n\nelectro magnetic\nelectro magnetic\n\nstrong force (holds together nucleus)\ngluon field\n\nweak force (radioactive decay)\nw z bozon field\n\nhiggs particle\nhiggs field (responsible for mass)\n\nproton is 2 up quarks and 1 down quark\nneutron is 2 down quarks and 1 up quark\nVacuum is made of fields - Quantum Vacuum Fluctuations\nIdeas of unification\n\nGrand Unified Theory\nSuper symmetry\nString theory",
 		"tags": [ "note"]
@@ -121,7 +121,7 @@
 
 {
 		"title": "day 4",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-4/",
 		"content": "Today started with Quantum Country and then I moved on to the videos for today. And I have to say that combining both of these resources has been interesting but I am also realising that it seems like I am making more steady progress with Quantum Country rather than the videos.\nhere it goes\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-state/\">Quantum State</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-circuits/\">Quantum Circuits</a>\nSchrodinger was a polygamist. When he decided to derive the Wave Function, he moved to a cabin, without his wife/s and was surrounded by young women. In this period of a few months, he produced the four influential papers.",
 		"tags": [ "note"]
@@ -129,7 +129,7 @@
 
 {
 		"title": "day 5",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-5/",
 		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/stern-gerlach-experiment/\">Stern-Gerlach Experiment</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/heisenberg-uncertainty-principle/\">Heisenberg Uncertainty Principle</a>",
 		"tags": [ "note"]
@@ -137,7 +137,7 @@
 
 {
 		"title": "day 8",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-8/",
 		"content": "I am finding that the end of first week and the beginning of second week has not been as enthusiastic for me as it was initially. To some extent, I am failing to connect with the material as much and the fact that all of it is in video format does not help. There seems to be this illusion of understanding something but I feel like I actually don't, and if someone were to dig deeper they would realise that the foundation for all this new information doesn't exist.\nAnyway, I think that is why this has taken me quite some time to get back to, but get back we shall.\n\nHadamard Gate -&gt; <a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-entanglement/\">Quantum Entanglement</a>",
 		"tags": [ "note"]
@@ -145,7 +145,7 @@
 
 {
 		"title": "day 9",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/day-9/",
 		"content": "Today's videos were quite low on information. And since I am already continuing with Quantum Country, a lot of the information that was delivered, I already knew.\nThere were two key takeaways though which I will list here and then pull into other notes at some later point in time\n\nAs the size of transistors gets smaller, there is a chance for them to stop working in the intended manner since electrons start exhibiting the phenomenon of <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-tunnelling/\">Quantum tunnelling</a>. This is a key reason why people began thinking of building Quantum computers (?)\nQuantum computers are not a replacement for classical computers.\n\nEvery operation on a quantum computer is not faster.\nCertain kinds of problems are easier to solve with quantum computers since it takes an exponentially smaller number of steps to solve compared to classical computers.",
 		"tags": [ "note"]
@@ -153,7 +153,7 @@
 
 {
 		"title": "quantum30",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/index/",
 		"content": "daily entries\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-1/\">day 1</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-2/\">day 2</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-3/\">day 3</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-4/\">day 4</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-5/\">day 5</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-8/\">day 8</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/day-9/\">day 9</a>",
 		"tags": [ "note"]
@@ -161,7 +161,7 @@
 
 {
 		"title": "neutrino",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/neutrino/",
 		"content": "A fundamental particle that does not interact with other types of matter.\nIt is a really good option for making quantum wire (see <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/quantum30/quantum-circuits/\">Quantum Circuits</a>) but because of the same property, it becomes really difficult to design <a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a> for it which can manipulate its' state in a controlled manner.",
 		"tags": [ "note"]
@@ -169,7 +169,7 @@
 
 {
 		"title": "qubit",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/quantum30/qubit/",
 		"content": "quantum version of a bit\n|0⟩:=[10]|1⟩:=[01]",
 		"tags": [ "note"]
@@ -177,7 +177,7 @@
 
 {
 		"title": "website as story",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/website-as-story/",
 		"content": "site art\nwebsite as concrete poetry",
 		"tags": [ "note"]
@@ -185,7 +185,7 @@
 
 {
 		"title": "on art made with software",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/on-art-made-with-software/",
 		"content": "new media art\nfound images, found sounds and found texts",
 		"tags": [ "note"]
@@ -193,7 +193,7 @@
 
 {
 		"title": "Big Bang Nucleosynthesis",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/big-bang-nucleosynthesis/",
 		"content": "Some neutrons combine with other neutrons to make more stable configurations.\nOther neutrons decay into protons.\nElectrons are not bound because of high energy.\n75% hydrogen, 25% helium\n87% protons, 13% neutrons",
 		"tags": [ "note"]
@@ -201,7 +201,7 @@
 
 {
 		"title": "Cosmic Microwave Background",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/cosmic-microwave-background/",
 		"content": "Temperature of the universe cools down to 3000K. This reduces the energy of electrons so they bind to the nucleus and first atoms are created.\nPhotons become free to move around and light is observed.",
 		"tags": [ "note"]
@@ -209,7 +209,7 @@
 
 {
 		"title": "Fields",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/fields/",
 		"content": "A fluid like substance\nspread everywhere in the universe\nhas a value at every point in space\nchanges over time\nFundamental building blocks of the universe are Fields\nThe best theories in physics rely on Fields rather than particles",
 		"tags": [ "note"]
@@ -217,15 +217,39 @@
 
 {
 		"title": "Heisenberg Uncertainty Principle",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/heisenberg-uncertainty-principle/",
 		"content": "Conjugate variables have complementarity, which means that they cannot be measured at the same time.\nFor example, frequency and time are conjugate. To measure frequency more accurately you need to spend more time.\nIt is only possible to certainly measure one of either position or momentum of a particle.\nThis is not due to a limitation of measuring devices.\nWhen the position is known accurately, the momentum becomes uncertain and vice versa.\nUncertainty principle is explained by the mathematical fact that the wave function of momentum is the <a class=\"internal-link is-unresolved\" href=\"/404\">Fourier transform</a> of the wave function of position.\nOne possible explanation as to why this happens in below\nto know position of something you have to shine light on it\nat quantum scales, light is made of photons which have energy and momentum\nThere are two scenarios\nsmaller wavelength light will have high energy photons\ncan get a good image Δx is low but since the photon is high energy it moves the particle and Δp becomes high\nhigher wavelength light will have low energy photons\nwill get a blurry image Δx is high but since the photon is low energy it doesn't move the particle and Δp becomes low",
 		"tags": [ "note"]
 },
 
 {
+		"title": "Quantum Circuits",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
+		"url":"/quantum30/quantum-circuits/",
+		"content": "The simplest quantum circuit is the Quantum Wire\nSystems which make good quantum wires are difficult to build quantum gates for.\nOne of these systems is a <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/neutrino/\">neutrino</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Quantum Entanglement",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
+		"url":"/quantum30/quantum-entanglement/",
+		"content": "Two particles interact with each other and get linked in a manner that measuring one particle allows us to instantaneously know what the other particle will be irrespective of the distance between them\nEinstein (EPR) thought the particles had hidden variables and called this spooky action at a distance. But since then it has been shown through experiments based on the <a class=\"internal-link is-unresolved\" href=\"/404\">Bell inequality test</a> that this is not true and non locality exists.\nAfter entanglement, the particles do not remain distinct entities and are described by the same wave function. So it makes no sense to theorize that they are communicating across a distance.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Quantum Field Theory",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
+		"url":"/quantum30/quantum-field-theory/",
+		"content": "A theory that combines Quantum Mechanics with Faraday's idea of <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/fields/\">Fields</a>",
+		"tags": [ "note"]
+},
+
+{
 		"title": "computers are a fundamental feature of the universe",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/computers-are-a-fundamental-feature-of-the-universe/",
 		"content": "David Hilbert\nis there an algorithm to find out if a mathematical theorem is provable\nAlan Turing\nthere is a general purpose computing device that can follow any algorithm\nDavid Deutsch\nIs there a (single) universal computing device which can efficiently simulate any other physical system?",
 		"tags": [ "note"]
@@ -233,7 +257,7 @@
 
 {
 		"title": "day 1",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-1/",
 		"content": "Today will be the first day of this one month long learning challenge.\nInitially I had thought of using substack for publishing my daily learning notes, but obsidian seems like a much better idea for further refinement and continued learning.\nA list of interesting points\n\nHumans are a mathematical anomaly[1]\n\ndo we romanticise being made of stardust? short answer, yes.\n\nsingularity is a tricky concept. highly possible for it not to exist.\nthere is a smallest unit of time. one Planck time.\ngrand unified force is a khichdi of electromagnetic, gravitation, weak and strong force.\n\nwhat is the naming convention being weak and strong forces?\n\nInformation cannot travel faster than light but space can.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">causality</a>\n\nwhere does mass come from\n\nHiggs Field being massless vs gaining non zero potential\n\nThere are more particles than anti particles\n\nthis is a huge reason for why the universe is the way it is\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/big-bang-nucleosynthesis/\">Big Bang Nucleosynthesis</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/cosmic-microwave-background/\">Cosmic Microwave Background</a>\nQuantum mechanics predicts all the elements in the periodic table[2]\n\nFootnotes\n\nhttps://www.youtube.com/watch?v=YCQPw9pbZnk ↩︎\n\nhttps://www.youtube.com/watch?v=tq_y1qOmUBE ↩︎",
 		"tags": [ "note"]
@@ -241,31 +265,31 @@
 
 {
 		"title": "day 2",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-2/",
-		"content": "I started to read Quantum Country today. I think it is a much better resource for me compared to watching videos. It is also quite an interesting approach to learning so I am looking forward to progressing with it.\nThings noted from today's videos\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">Deterministic world</a> vs <a class=\"internal-link is-unresolved\" href=\"/404\">Probabilistic world</a>\nMeasurement collapses the wave function\n\nIt is not actually known how this happens\n\nSuperposition and the double slip experiment\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Entanglement</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum tunnelling</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/heisenberg-uncertainty-principle/\">Heisenberg Uncertainty Principle</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/computers-are-a-fundamental-feature-of-the-universe/\">computers are a fundamental feature of the universe</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">qubit</a>",
+		"content": "I started to read Quantum Country today. I think it is a much better resource for me compared to watching videos. It is also quite an interesting approach to learning so I am looking forward to progressing with it.\nThings noted from today's videos\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">Deterministic world</a> vs <a class=\"internal-link is-unresolved\" href=\"/404\">Probabilistic world</a>\nMeasurement collapses the wave function\n\nIt is not actually known how this happens\n\nSuperposition and the double slip experiment\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/quantum-entanglement/\">Quantum Entanglement</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum tunnelling</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/heisenberg-uncertainty-principle/\">Heisenberg Uncertainty Principle</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/computers-are-a-fundamental-feature-of-the-universe/\">computers are a fundamental feature of the universe</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">qubit</a>",
 		"tags": [ "note"]
 },
 
 {
 		"title": "day 3",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-3/",
-		"content": "I was planning to make some progress with Quantum Country today as well but then I got hit with some biology happening in my uterus so could not proceed. But here are a few observations from today\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Field Theory</a>\nThere are 3 fundamental particles ( well 12 actually )\n\nlightest\n\nheaviest\n\nelectron\nmuon\ntau\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">neutrino</a>\nmuon quark\ntau quark\n\nup quark\nstrange quark\nbottom quark\n\ndown quark\ncharm quark\nup quark\n\nforces\nfields\n\ngravity\nspace time\n\nelectro magnetic\nelectro magnetic\n\nstrong force (holds together nucleus)\ngluon field\n\nweak force (radioactive decay)\nw z bozon field\n\nhiggs particle\nhiggs field (responsible for mass)\n\nproton is 2 up quarks and 1 down quark\nneutron is 2 down quarks and 1 up quark\nVacuum is made of fields - Quantum Vacuum Fluctuations\nIdeas of unification\n\nGrand Unified Theory\nSuper symmetry\nString theory",
+		"content": "I was planning to make some progress with Quantum Country today as well but then I got hit with some biology happening in my uterus so could not proceed. But here are a few observations from today\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/quantum-field-theory/\">Quantum Field Theory</a>\nThere are 3 fundamental particles ( well 12 actually )\n\nlightest\n\nheaviest\n\nelectron\nmuon\ntau\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/neutrino/\">neutrino</a>\nmuon quark\ntau quark\n\nup quark\nstrange quark\nbottom quark\n\ndown quark\ncharm quark\nup quark\n\nforces\nfields\n\ngravity\nspace time\n\nelectro magnetic\nelectro magnetic\n\nstrong force (holds together nucleus)\ngluon field\n\nweak force (radioactive decay)\nw z bozon field\n\nhiggs particle\nhiggs field (responsible for mass)\n\nproton is 2 up quarks and 1 down quark\nneutron is 2 down quarks and 1 up quark\nVacuum is made of fields - Quantum Vacuum Fluctuations\nIdeas of unification\n\nGrand Unified Theory\nSuper symmetry\nString theory",
 		"tags": [ "note"]
 },
 
 {
 		"title": "day 4",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-4/",
-		"content": "Today started with Quantum Country and then I moved on to the videos for today. And I have to say that combining both of these resources has been interesting but I am also realising that it seems like I am making more steady progress with Quantum Country rather than the videos.\nhere it goes\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum State</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Circuits</a>\nSchrodinger was a polygamist. When he decided to derive the Wave Function, he moved to a cabin, without his wife/s and was surrounded by young women. In this period of a few months, he produced the four influential papers.",
+		"content": "Today started with Quantum Country and then I moved on to the videos for today. And I have to say that combining both of these resources has been interesting but I am also realising that it seems like I am making more steady progress with Quantum Country rather than the videos.\nhere it goes\n\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum State</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/quantum-circuits/\">Quantum Circuits</a>\nSchrodinger was a polygamist. When he decided to derive the Wave Function, he moved to a cabin, without his wife/s and was surrounded by young women. In this period of a few months, he produced the four influential papers.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "day 5",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-5/",
 		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\">Stern-Gerlach Experiment</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/heisenberg-uncertainty-principle/\">Heisenberg Uncertainty Principle</a>",
 		"tags": [ "note"]
@@ -273,23 +297,39 @@
 
 {
 		"title": "day 8",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-8/",
-		"content": "I am finding that the end of first week and the beginning of second week has not been as enthusiastic for me as it was initially. To some extent, I am failing to connect with the material as much and the fact that all of it is in video format does not help. There seems to be this illusion of understanding something but I feel like I actually don't, and if someone were to dig deeper they would realise that the foundation for all this new information doesn't exist.\nAnyway, I think that is why this has taken me quite some time to get back to, but get back we shall.\n\nHadamard Gate -&gt; <a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Entanglement</a>",
+		"content": "I am finding that the end of first week and the beginning of second week has not been as enthusiastic for me as it was initially. To some extent, I am failing to connect with the material as much and the fact that all of it is in video format does not help. There seems to be this illusion of understanding something but I feel like I actually don't, and if someone were to dig deeper they would realise that the foundation for all this new information doesn't exist.\nAnyway, I think that is why this has taken me quite some time to get back to, but get back we shall.\n\nHadamard Gate -&gt; <a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/quantum-entanglement/\">Quantum Entanglement</a>",
 		"tags": [ "note"]
 },
 
 {
 		"title": "day 9",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/quantum30/day-9/",
 		"content": "Today's videos were quite low on information. And since I am already continuing with Quantum Country, a lot of the information that was delivered, I already knew.\nThere were two key takeaways though which I will list here and then pull into other notes at some later point in time\n\nAs the size of transistors gets smaller, there is a chance for them to stop working in the intended manner since electrons start exhibiting the phenomenon of <a class=\"internal-link is-unresolved\" href=\"/404\">Quantum tunnelling</a>. This is a key reason why people began thinking of building Quantum computers (?)\nQuantum computers are not a replacement for classical computers.\n\nEvery operation on a quantum computer is not faster.\nCertain kinds of problems are easier to solve with quantum computers since it takes an exponentially smaller number of steps to solve compared to classical computers.",
 		"tags": [ "note"]
 },
 
 {
+		"title": "quantum30",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
+		"url":"/quantum30/index/",
+		"content": "daily entries\n\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-1/\">day 1</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-2/\">day 2</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-3/\">day 3</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-4/\">day 4</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-5/\">day 5</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-8/\">day 8</a>\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/day-9/\">day 9</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "neutrino",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
+		"url":"/quantum30/neutrino/",
+		"content": "A fundamental particle that does not interact with other types of matter.\nIt is a really good option for making quantum wire (see <a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/quantum30/quantum-circuits/\">Quantum Circuits</a>) but because of the same property, it becomes really difficult to design <a class=\"internal-link is-unresolved\" href=\"/404\">Quantum Logic Gates</a> for it which can manipulate its' state in a controlled manner.",
+		"tags": [ "note"]
+},
+
+{
 		"title": "what is a digital garden",
-		"date":"Sun Oct 15 2023 12:44:25 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:44:29 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "But before that; why do I have a website?\nFor one, I am not someone who has a lot of thoughts worth publicly writing about. And while I certainly enjoy documenting things[1], more often than not, I struggle with words.\nThis website began, like a lot of things do with me, as a way of measuring progress; specifically, trying to learn how to write fragment shaders by making tiny shaders and then explaining the process as best I could by writing a small article[2]. Sadly though, I never got quite far with that series, and after <a class=\"internal-link is-unresolved\" href=\"/404\">chess board</a>, <a class=\"internal-link is-unresolved\" href=\"/404\">texture land</a>, and <a class=\"internal-link is-unresolved\" href=\"/404\">mondrian</a>, I continued to write more shaders but never got around to writing another article.\nThen sometime in January 2022, I decided to redesign my website every year on twitter and the current version is a continuation of this exercise with some major structural redesigns and less important visual ones[3]. It started with wanting a better workflow for writing to help me think better, and the idea of building a digital garden [4][5] really stuck with me. I am giving myself the space to not agonise over every single word and how it may sound to an external audience, and instead use writing as a way to consolidate floaty bits of thoughts that I sometimes happen to have.\nLet me then make an incomplete list of things this garden might have\n\nnotes about current projects\nhalf cooked slash uncooked ideas for new projects\nrationalizing slash historical bits, like this one, about why I do certain things\nunasked for opinions\njokes in footnotes\nmore jokes than references in footnotes\nmore incomplete lists\nlists saying &quot;lists are fun but totally pointless&quot;\n<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/on-art-made-with-software/\">on art made with software</a> poems\n\nupdate - 30/05/2023\nI have not been writing a lot or taking notes. This website is almost turning out to be just like the previous ones where I engage with it only rarely. I want to stop that and write more often even if it doesn't make sense. I want to tend to this garden. So I will try to make a habit to do this whenever I am consuming some media and integrate them into the garden at the end of the day or whenever feels right for a few seconds.\n\nPCD India is a community of creative coding enthusiasts, tech artists, designers, live coders, data nerds, musicians, architects, paper engineers and artists whose practices contain these and more elements. We are a group of enthu cutlets who love experimentation and sharing, come hang out! https://processingindia.com/2021 ↩︎\n\nMy first article <a class=\"internal-link is-unresolved\" href=\"/404\">hello shader</a> literally begins with a cheerful 'Hey!' haha ↩︎\n\ncos who likes to write css revisions in the first month of a new year; not me. yes, I will continue to use footnotes for silly jokes. ↩︎\n\nhttps://maggieappleton.com/garden-history ↩︎\n\nhttps://nesslabs.com/digital-garden-set-up ↩︎",
 		"tags": [ "note","gardenEntry"]
