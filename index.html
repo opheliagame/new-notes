@@ -267,7 +267,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2023-10-15T12:56:16.409Z';
+        const searchIndexDate = '2023-10-15T12:56:19.396Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -279,9 +279,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2023-10-15T12:56:16.409Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2023-10-15T12:56:19.396Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2023-10-15T12:56:16.409Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2023-10-15T12:56:19.396Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -545,7 +545,7 @@ For one, I am not someone who has a lot of thoughts worth publicly writing about
 <li>more jokes than references in footnotes</li>
 <li>more incomplete lists</li>
 <li>lists saying &quot;lists are fun but totally pointless&quot;</li>
-<li><a class="internal-link" data-note-icon="" href="/on-art-made-with-software/">on art made with software</a> poems</li>
+<li><a class="internal-link" data-note-icon="" href="/new-notes/on-art-made-with-software/">on art made with software</a> poems</li>
 </ul>
 <p>update - 30/05/2023<br>
 I have not been writing a lot or taking notes. This website is almost turning out to be just like the previous ones where I engage with  it only rarely. I want to stop that and write more often even if it doesn't make sense. I want to tend to this garden. So I will try to make a habit to do this whenever I am consuming some media and integrate them into the garden at the end of the day or whenever feels right for a few seconds.</p>
