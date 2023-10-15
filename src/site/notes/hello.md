@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/hello/","tags":["gardenEntry"]}
 ---
 
-[[second\|second]]
+[[new-notes/second\|second]]
