@@ -269,7 +269,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2023-10-15T13:03:33.104Z';
+        const searchIndexDate = '2023-10-15T13:06:39.588Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -281,9 +281,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2023-10-15T13:03:33.104Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2023-10-15T13:06:39.588Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2023-10-15T13:03:33.104Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2023-10-15T13:06:39.588Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -544,7 +544,7 @@
 <li><a class="internal-link" data-note-icon="" href="/new-notes/quantum30/quantum-tunnelling/">Quantum tunnelling</a></li>
 <li><a class="internal-link" data-note-icon="" href="/new-notes/quantum30/heisenberg-uncertainty-principle/">Heisenberg Uncertainty Principle</a></li>
 <li><a class="internal-link" data-note-icon="" href="/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/">computers are a fundamental feature of the universe</a></li>
-<li><a class="internal-link is-unresolved" href="/404">qubit</a></li>
+<li><a class="internal-link" data-note-icon="" href="/new-notes/quantum30/qubit/">qubit</a></li>
 </ul>
 
       
