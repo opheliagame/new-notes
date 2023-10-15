@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://opheliagame.github.io/notes/">
+    <title>opheliagame</title>
+    <link href="https://opheliagame.github.io/notes//feed.xml" rel="self" />
+    <link href="https://opheliagame.github.io/notes/" />
+    <updated>2023-10-15T12:49:46Z</updated>
+    <id>https://opheliagame.github.io/notes/</id>
+        <entry>
+            <title>
+                what is a digital garden
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/</id>
+            <content type="html">
+                &lt;p&gt;But before that; why do I have a website?&lt;br /&gt;
+For one, I am not someone who has a lot of thoughts worth publicly writing about. And while I certainly enjoy documenting things&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;, more often than not, I struggle with words.&lt;/p&gt;
+&lt;p&gt;This website began, like a lot of things do with me, as a way of measuring progress; specifically, trying to learn how to write fragment shaders by making tiny shaders and then explaining the process as best I could by writing a small article&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;. Sadly though, I never got quite far with that series, and after &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;chess board&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;texture land&lt;/a&gt;, and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;mondrian&lt;/a&gt;, I continued to write more shaders but never got around to writing another article.&lt;/p&gt;
+&lt;p&gt;Then sometime in January 2022, &lt;a href=&quot;https://twitter.com/anushkatr/status/1481567649192906752&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;I decided to redesign my website every year on twitter&lt;/a&gt; and the current version is a continuation of this exercise with some major structural redesigns and less important visual ones&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn3&quot; id=&quot;fnref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;.  It started with wanting a better workflow for writing to help me think better, and the idea of building a digital garden &lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn4&quot; id=&quot;fnref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn5&quot; id=&quot;fnref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt; really stuck with me. I am giving myself the space to not agonise over every single word and how it may sound to an external audience, and instead use writing as a way to consolidate floaty bits of thoughts that I sometimes happen to have.&lt;/p&gt;
+&lt;p&gt;Let me then make an incomplete list of things this garden might have&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;notes about current projects&lt;/li&gt;
+&lt;li&gt;half cooked slash uncooked ideas for new projects&lt;/li&gt;
+&lt;li&gt;rationalizing slash historical bits, like this one, about why I do certain things&lt;/li&gt;
+&lt;li&gt;unasked for opinions&lt;/li&gt;
+&lt;li&gt;jokes in footnotes&lt;/li&gt;
+&lt;li&gt;more jokes than references in footnotes&lt;/li&gt;
+&lt;li&gt;more incomplete lists&lt;/li&gt;
+&lt;li&gt;lists saying &amp;quot;lists are fun but totally pointless&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/on-art-made-with-software/&quot;&gt;on art made with software&lt;/a&gt; poems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;update - 30/05/2023&lt;br /&gt;
+I have not been writing a lot or taking notes. This website is almost turning out to be just like the previous ones where I engage with  it only rarely. I want to stop that and write more often even if it doesn&#39;t make sense. I want to tend to this garden. So I will try to make a habit to do this whenever I am consuming some media and integrate them into the garden at the end of the day or whenever feels right for a few seconds.&lt;/p&gt;
+&lt;hr class=&quot;footnotes-sep&quot; /&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;PCD India is a community of creative coding enthusiasts, tech artists, designers, live coders, data nerds, musicians, architects, paper engineers and artists whose practices contain these and more elements. We are a group of enthu cutlets who love experimentation and sharing, come hang out! &lt;a href=&quot;https://processingindia.com/2021&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://processingindia.com/2021&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;My first article &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;hello shader&lt;/a&gt; literally begins with a  cheerful &#39;Hey!&#39; haha &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;cos who likes to write css revisions in the first month of a new year; not me. yes, I will continue to use footnotes for silly jokes. &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://maggieappleton.com/garden-history&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://maggieappleton.com/garden-history&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref4&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn5&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://nesslabs.com/digital-garden-set-up&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://nesslabs.com/digital-garden-set-up&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref5&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/" />
+        </entry>
+        <entry>
+            <title>
+                website as story
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/website-as-story/</id>
+            <content type="html">
+                &lt;p&gt;site art&lt;br /&gt;
+website as concrete poetry&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/website-as-story/" />
+        </entry>
+        <entry>
+            <title>
+                qubit
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/qubit/</id>
+            <content type="html">
+                &lt;p&gt;quantum version of a bit&lt;/p&gt;
+&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; display=&quot;true&quot; style=&quot;direction: ltr; display: block; text-align: center; margin: 1em 0; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -2.149ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;9.807ex&quot; height=&quot;5.43ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -1450 4334.6 2400&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(778,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mspace&quot; transform=&quot;translate(1167,0)&quot;&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(1444.8,0)&quot;&gt;&lt;g data-mml-node=&quot;text&quot;&gt;&lt;path data-c=&quot;3A&quot; d=&quot;M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;text&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;3D&quot; d=&quot;M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mrow&quot; transform=&quot;translate(2778.6,0)&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;5B&quot; d=&quot;M247 -949V1450H516V1388H309V-887H516V-949H247Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mtable&quot; transform=&quot;translate(528,0)&quot;&gt;&lt;g data-mml-node=&quot;mtr&quot; transform=&quot;translate(0,700)&quot;&gt;&lt;g data-mml-node=&quot;mtd&quot;&gt;&lt;g data-mml-node=&quot;mn&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mtr&quot; transform=&quot;translate(0,-700)&quot;&gt;&lt;g data-mml-node=&quot;mtd&quot;&gt;&lt;g data-mml-node=&quot;mn&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(1028,0) translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;5D&quot; d=&quot;M11 1388V1450H280V-949H11V-887H218V1388H11Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;block&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; overflow: hidden; width: 100%;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;mspace linebreak=&quot;newline&quot;&gt;&lt;/mspace&gt;&lt;mo&gt;:=&lt;/mo&gt;&lt;mrow data-mjx-texclass=&quot;INNER&quot;&gt;&lt;mo data-mjx-texclass=&quot;OPEN&quot;&gt;[&lt;/mo&gt;&lt;mtable columnspacing=&quot;1em&quot; rowspacing=&quot;4pt&quot;&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;mo data-mjx-texclass=&quot;CLOSE&quot;&gt;]&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; display=&quot;true&quot; style=&quot;direction: ltr; display: block; text-align: center; margin: 1em 0; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -2.149ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;9.807ex&quot; height=&quot;5.43ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -1450 4334.6 2400&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(778,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mspace&quot; transform=&quot;translate(1167,0)&quot;&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(1444.8,0)&quot;&gt;&lt;g data-mml-node=&quot;text&quot;&gt;&lt;path data-c=&quot;3A&quot; d=&quot;M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;text&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;3D&quot; d=&quot;M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mrow&quot; transform=&quot;translate(2778.6,0)&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;5B&quot; d=&quot;M247 -949V1450H516V1388H309V-887H516V-949H247Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mtable&quot; transform=&quot;translate(528,0)&quot;&gt;&lt;g data-mml-node=&quot;mtr&quot; transform=&quot;translate(0,700)&quot;&gt;&lt;g data-mml-node=&quot;mtd&quot;&gt;&lt;g data-mml-node=&quot;mn&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mtr&quot; transform=&quot;translate(0,-700)&quot;&gt;&lt;g data-mml-node=&quot;mtd&quot;&gt;&lt;g data-mml-node=&quot;mn&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(1028,0) translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;5D&quot; d=&quot;M11 1388V1450H280V-949H11V-887H218V1388H11Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;block&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; overflow: hidden; width: 100%;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;mspace linebreak=&quot;newline&quot;&gt;&lt;/mspace&gt;&lt;mo&gt;:=&lt;/mo&gt;&lt;mrow data-mjx-texclass=&quot;INNER&quot;&gt;&lt;mo data-mjx-texclass=&quot;OPEN&quot;&gt;[&lt;/mo&gt;&lt;mtable columnspacing=&quot;1em&quot; rowspacing=&quot;4pt&quot;&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;mo data-mjx-texclass=&quot;CLOSE&quot;&gt;]&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt;
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/qubit/" />
+        </entry>
+        <entry>
+            <title>
+                neutrino
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/neutrino/</id>
+            <content type="html">
+                &lt;p&gt;A fundamental particle that does not interact with other types of matter.&lt;/p&gt;
+&lt;p&gt;It is a really good option for making quantum wire (see &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-circuits/&quot;&gt;Quantum Circuits&lt;/a&gt;) but because of the same property, it becomes really difficult to design &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Quantum Logic Gates&lt;/a&gt; for it which can manipulate its&#39; state in a controlled manner.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/neutrino/" />
+        </entry>
+        <entry>
+            <title>
+                quantum30
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/index/</id>
+            <content type="html">
+                &lt;h2 id=&quot;daily-entries&quot; tabindex=&quot;-1&quot;&gt;daily entries&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-1/&quot;&gt;day 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-2/&quot;&gt;day 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-3/&quot;&gt;day 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-4/&quot;&gt;day 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-5/&quot;&gt;day 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-8/&quot;&gt;day 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/day-9/&quot;&gt;day 9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/index/" />
+        </entry>
+        <entry>
+            <title>
+                day 9
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-9/</id>
+            <content type="html">
+                &lt;p&gt;Today&#39;s videos were quite low on information. And since I am already continuing with Quantum Country, a lot of the information that was delivered, I already knew.&lt;/p&gt;
+&lt;p&gt;There were two key takeaways though which I will list here and then pull into other notes at some later point in time&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As the size of transistors gets smaller, there is a chance for them to stop working in the intended manner since electrons start exhibiting the phenomenon of &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-tunnelling/&quot;&gt;Quantum tunnelling&lt;/a&gt;. This is a key reason why people began thinking of building Quantum computers (?)&lt;/li&gt;
+&lt;li&gt;Quantum computers are not a replacement for classical computers.
+&lt;ul&gt;
+&lt;li&gt;Every operation on a quantum computer is not faster.&lt;/li&gt;
+&lt;li&gt;Certain kinds of problems are easier to solve with quantum computers since it takes an exponentially smaller number of steps to solve compared to classical computers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-9/" />
+        </entry>
+        <entry>
+            <title>
+                day 8
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-8/</id>
+            <content type="html">
+                &lt;p&gt;I am finding that the end of first week and the beginning of second week has not been as enthusiastic for me as it was initially. To some extent, I am failing to connect with the material as much and the fact that all of it is in video format does not help. There seems to be this illusion of understanding something but I feel like I actually don&#39;t, and if someone were to dig deeper they would realise that the foundation for all this new information doesn&#39;t exist.&lt;/p&gt;
+&lt;p&gt;Anyway, I think that is why this has taken me quite some time to get back to, but get back we shall.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hadamard Gate -&amp;gt; &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Quantum Logic Gates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-entanglement/&quot;&gt;Quantum Entanglement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-8/" />
+        </entry>
+        <entry>
+            <title>
+                day 5
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-5/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/stern-gerlach-experiment/&quot;&gt;Stern-Gerlach Experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/heisenberg-uncertainty-principle/&quot;&gt;Heisenberg Uncertainty Principle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-5/" />
+        </entry>
+        <entry>
+            <title>
+                day 4
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-4/</id>
+            <content type="html">
+                &lt;p&gt;Today started with Quantum Country and then I moved on to the videos for today. And I have to say that combining both of these resources has been interesting but I am also realising that it seems like I am making more steady progress with Quantum Country rather than the videos.&lt;/p&gt;
+&lt;p&gt;here it goes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-state/&quot;&gt;Quantum State&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Quantum Logic Gates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-circuits/&quot;&gt;Quantum Circuits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schrodinger was a polygamist. When he decided to derive the Wave Function, he moved to a cabin, without his wife/s and was surrounded by young women. In this period of a few months, he produced the four influential papers.&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-4/" />
+        </entry>
+        <entry>
+            <title>
+                day 3
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-3/</id>
+            <content type="html">
+                &lt;p&gt;I was planning to make some progress with Quantum Country today as well but then I got hit with some biology happening in my uterus so could not proceed. But here are a few observations from today&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-field-theory/&quot;&gt;Quantum Field Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;There are 3 fundamental particles ( well 12 actually )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;lightest&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;heaviest&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;electron&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;muon&lt;/td&gt;
+&lt;td&gt;tau&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/neutrino/&quot;&gt;neutrino&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;muon quark&lt;/td&gt;
+&lt;td&gt;tau quark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;up quark&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;strange quark&lt;/td&gt;
+&lt;td&gt;bottom quark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;down quark&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;charm quark&lt;/td&gt;
+&lt;td&gt;up quark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;forces&lt;/th&gt;
+&lt;th&gt;fields&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;gravity&lt;/td&gt;
+&lt;td&gt;space time&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;electro magnetic&lt;/td&gt;
+&lt;td&gt;electro magnetic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;strong force (holds together nucleus)&lt;/td&gt;
+&lt;td&gt;gluon field&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;weak force (radioactive decay)&lt;/td&gt;
+&lt;td&gt;w z bozon field&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;higgs particle&lt;/td&gt;
+&lt;td&gt;higgs field (responsible for mass)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;proton is 2 up quarks and 1 down quark&lt;/li&gt;
+&lt;li&gt;neutron is 2 down quarks and 1 up quark&lt;/li&gt;
+&lt;li&gt;Vacuum is made of fields - Quantum Vacuum Fluctuations&lt;/li&gt;
+&lt;li&gt;Ideas of unification
+&lt;ul&gt;
+&lt;li&gt;Grand Unified Theory&lt;/li&gt;
+&lt;li&gt;Super symmetry&lt;/li&gt;
+&lt;li&gt;String theory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-3/" />
+        </entry>
+        <entry>
+            <title>
+                day 2
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-2/</id>
+            <content type="html">
+                &lt;p&gt;I started to read &lt;a href=&quot;https://quantum.country/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Quantum Country&lt;/a&gt; today. I think it is a much better resource for me compared to watching videos. It is also quite an interesting approach to learning so I am looking forward to progressing with it.&lt;/p&gt;
+&lt;p&gt;Things noted from today&#39;s videos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Deterministic world&lt;/a&gt; vs &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Probabilistic world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Measurement collapses the wave function
+&lt;ul&gt;
+&lt;li&gt;It is not actually known how this happens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Superposition and the double slip experiment&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-entanglement/&quot;&gt;Quantum Entanglement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/quantum-tunnelling/&quot;&gt;Quantum tunnelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/heisenberg-uncertainty-principle/&quot;&gt;Heisenberg Uncertainty Principle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/computers-are-a-fundamental-feature-of-the-universe/&quot;&gt;computers are a fundamental feature of the universe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/qubit/&quot;&gt;qubit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-2/" />
+        </entry>
+        <entry>
+            <title>
+                day 1
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/day-1/</id>
+            <content type="html">
+                &lt;p&gt;Today will be the first day of this one month long learning challenge.&lt;br /&gt;
+Initially I had thought of using substack for publishing my daily learning notes, but obsidian seems like a much better idea for further refinement and continued learning.&lt;/p&gt;
+&lt;p&gt;A list of interesting points&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Humans are a mathematical anomaly&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;do we romanticise being made of stardust? short answer, yes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;singularity is a tricky concept. highly possible for it not to exist.&lt;/li&gt;
+&lt;li&gt;there is a smallest unit of time. one Planck time.&lt;/li&gt;
+&lt;li&gt;grand unified force is a khichdi of electromagnetic, gravitation, weak and strong force.
+&lt;ul&gt;
+&lt;li&gt;what is the naming convention being weak and strong forces?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Information cannot travel faster than light but space can.
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;causality&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;where does mass come from
+&lt;ul&gt;
+&lt;li&gt;Higgs Field being massless vs gaining non zero potential&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;There are more particles than anti particles
+&lt;ul&gt;
+&lt;li&gt;this is a huge reason for why the universe is the way it is&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/big-bang-nucleosynthesis/&quot;&gt;Big Bang Nucleosynthesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/cosmic-microwave-background/&quot;&gt;Cosmic Microwave Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quantum mechanics predicts all the elements in the periodic table&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Footnotes&lt;/p&gt;
+&lt;hr class=&quot;footnotes-sep&quot; /&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YCQPw9pbZnk&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.youtube.com/watch?v=YCQPw9pbZnk&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tq_y1qOmUBE&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.youtube.com/watch?v=tq_y1qOmUBE&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/day-1/" />
+        </entry>
+        <entry>
+            <title>
+                computers are a fundamental feature of the universe
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/</id>
+            <content type="html">
+                &lt;p&gt;David Hilbert&lt;br /&gt;
+is there an algorithm to find out if a mathematical theorem is provable&lt;/p&gt;
+&lt;p&gt;Alan Turing&lt;br /&gt;
+there is a general purpose computing device that can follow any algorithm&lt;/p&gt;
+&lt;p&gt;David Deutsch&lt;br /&gt;
+Is there a (single) universal computing device which can efficiently simulate any other physical system?&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/" />
+        </entry>
+        <entry>
+            <title>
+                Stern-Gerlach Experiment
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/stern-gerlach-experiment/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://opheliagame.github.io/img/user/quantum30/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-09%20085042.png&quot; alt=&quot;スクリーンショット 2023-08-09 085042.png&quot; /&gt;&lt;img src=&quot;https://opheliagame.github.io/img/user/quantum30/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-09%20085240.png&quot; alt=&quot;スクリーンショット 2023-08-09 085240.png&quot; /&gt;&lt;img src=&quot;https://opheliagame.github.io/img/user/quantum30/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-09%20085202.png&quot; alt=&quot;スクリーンショット 2023-08-09 085202.png&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/stern-gerlach-experiment/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum tunnelling
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/quantum-tunnelling/</id>
+            <content type="html">
+                &lt;p&gt;Particle have a probability to move (are they actually moving?) through a barrier, given the barrier is thin enough.&lt;br /&gt;
+Nuclear fusion in the sun, when two hydrogen molecules combine to produce helium, happens with quantum tunnelling.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/quantum-tunnelling/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum State
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/quantum-state/</id>
+            <content type="html">
+                &lt;p&gt;The state of a &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/qubit/&quot;&gt;qubit&lt;/a&gt; is a vector of unit length in 2D complex vector space called state space&lt;/p&gt;
+&lt;p&gt;There are two basis states &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.566ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.64ex&quot; height=&quot;2.262ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -750 1167 1000&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(778,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; and &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.566ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.64ex&quot; height=&quot;2.262ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -750 1167 1000&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(778,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; and several superposition states for eg. &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.566ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;15.589ex&quot; height=&quot;2.262ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -750 6890.4 1000&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mn&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;2E&quot; d=&quot;M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z&quot; transform=&quot;translate(500,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;36&quot; d=&quot;M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z&quot; transform=&quot;translate(778,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(1278,0) translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(1556,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(2056,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(2667.2,0)&quot;&gt;&lt;path data-c=&quot;2B&quot; d=&quot;M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(3667.4,0)&quot;&gt;&lt;path data-c=&quot;2212&quot; d=&quot;M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(4445.4,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;2E&quot; d=&quot;M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z&quot; transform=&quot;translate(500,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;38&quot; d=&quot;M70 417T70 494T124 618T248 666Q319 666 374 624T429 515Q429 485 418 459T392 417T361 389T335 371T324 363L338 354Q352 344 366 334T382 323Q457 264 457 174Q457 95 399 37T249 -22Q159 -22 101 29T43 155Q43 263 172 335L154 348Q133 361 127 368Q70 417 70 494ZM286 386L292 390Q298 394 301 396T311 403T323 413T334 425T345 438T355 454T364 471T369 491T371 513Q371 556 342 586T275 624Q268 625 242 625Q201 625 165 599T128 534Q128 511 141 492T167 463T217 431Q224 426 228 424L286 386ZM250 21Q308 21 350 55T392 137Q392 154 387 169T375 194T353 216T330 234T301 253T274 270Q260 279 244 289T218 306L210 311Q204 311 181 294T133 239T107 157Q107 98 150 60T250 21Z&quot; transform=&quot;translate(778,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(5723.4,0) translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(6001.4,0)&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(6501.4,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mn&gt;0.6&lt;/mn&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;0.8&lt;/mn&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt;&lt;/p&gt;
+&lt;p&gt;Q. What is the meaning of the quantum state&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/quantum-state/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum Field Theory
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/quantum-field-theory/</id>
+            <content type="html">
+                &lt;p&gt;A theory that combines Quantum Mechanics with Faraday&#39;s idea of &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/fields/&quot;&gt;Fields&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/quantum-field-theory/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum Entanglement
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/quantum-entanglement/</id>
+            <content type="html">
+                &lt;p&gt;Two particles interact with each other and get linked in a manner that measuring one particle allows us to instantaneously know what the other particle will be irrespective of the distance between them&lt;/p&gt;
+&lt;p&gt;Einstein (EPR) thought the particles had hidden variables and called this &lt;em&gt;spooky action at a distance&lt;/em&gt;. But since then it has been shown through experiments based on the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Bell inequality test&lt;/a&gt; that this is not true and non locality exists.&lt;/p&gt;
+&lt;p&gt;After entanglement, the particles do not remain distinct entities and are described by the same wave function. So it makes no sense to theorize that they are communicating across a distance.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/quantum-entanglement/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum Circuits
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/quantum-circuits/</id>
+            <content type="html">
+                &lt;p&gt;The simplest quantum circuit is the Quantum Wire&lt;/p&gt;
+&lt;p&gt;Systems which make good quantum wires are difficult to build quantum gates for.&lt;br /&gt;
+One of these systems is a &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/quantum30/neutrino/&quot;&gt;neutrino&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/quantum-circuits/" />
+        </entry>
+        <entry>
+            <title>
+                Heisenberg Uncertainty Principle
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/heisenberg-uncertainty-principle/</id>
+            <content type="html">
+                &lt;p&gt;Conjugate variables have complementarity, which means that they cannot be measured at the same time.&lt;br /&gt;
+For example, frequency and time are conjugate. To measure frequency more accurately you need to spend more time.&lt;/p&gt;
+&lt;p&gt;It is only possible to certainly measure one of either position or momentum of a particle.&lt;/p&gt;
+&lt;p&gt;This is not due to a limitation of measuring devices.&lt;/p&gt;
+&lt;p&gt;When the position is known accurately, the momentum becomes uncertain and vice versa.&lt;/p&gt;
+&lt;p&gt;Uncertainty principle is explained by the mathematical fact that the wave function of momentum is the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Fourier transform&lt;/a&gt; of the wave function of position.&lt;/p&gt;
+&lt;p&gt;One possible explanation as to why this happens in below&lt;br /&gt;
+to know position of something you have to shine light on it&lt;br /&gt;
+at quantum scales, light is made of photons which have energy and momentum&lt;/p&gt;
+&lt;p&gt;There are two scenarios&lt;br /&gt;
+smaller wavelength light will have high energy photons&lt;br /&gt;
+can get a good image &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.025ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.179ex&quot; height=&quot;1.645ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1405 727&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D465&quot; d=&quot;M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; is low but since the photon is high energy it moves the particle and &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.439ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.023ex&quot; height=&quot;2.059ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1336 910&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D45D&quot; d=&quot;M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;p&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; becomes high&lt;br /&gt;
+higher wavelength light will have low energy photons&lt;br /&gt;
+will get a blurry image &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.025ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.179ex&quot; height=&quot;1.645ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1405 727&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D465&quot; d=&quot;M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; is high but since the photon is low energy it doesn&#39;t move the particle and &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.439ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.023ex&quot; height=&quot;2.059ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1336 910&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D45D&quot; d=&quot;M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;p&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; becomes low&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/heisenberg-uncertainty-principle/" />
+        </entry>
+        <entry>
+            <title>
+                Fields
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/fields/</id>
+            <content type="html">
+                &lt;p&gt;A fluid like substance&lt;br /&gt;
+spread everywhere in the universe&lt;br /&gt;
+has a value at every point in space&lt;br /&gt;
+changes over time&lt;/p&gt;
+&lt;p&gt;Fundamental building blocks of the universe are Fields&lt;/p&gt;
+&lt;p&gt;The best theories in physics rely on Fields rather than particles&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/fields/" />
+        </entry>
+        <entry>
+            <title>
+                Cosmic Microwave Background
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/cosmic-microwave-background/</id>
+            <content type="html">
+                &lt;p&gt;Temperature of the universe cools down to 3000K. This reduces the energy of electrons so they bind to the nucleus and first atoms are created.&lt;/p&gt;
+&lt;p&gt;Photons become free to move around and light is observed.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/cosmic-microwave-background/" />
+        </entry>
+        <entry>
+            <title>
+                Big Bang Nucleosynthesis
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/quantum30/big-bang-nucleosynthesis/</id>
+            <content type="html">
+                &lt;p&gt;Some neutrons combine with other neutrons to make more stable configurations.&lt;br /&gt;
+Other neutrons decay into protons.&lt;br /&gt;
+Electrons are not bound because of high energy.&lt;/p&gt;
+&lt;p&gt;75% hydrogen, 25% helium&lt;br /&gt;
+87% protons, 13% neutrons&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/quantum30/big-bang-nucleosynthesis/" />
+        </entry>
+        <entry>
+            <title>
+                on art made with software
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/on-art-made-with-software/</id>
+            <content type="html">
+                &lt;p&gt;new media art&lt;br /&gt;
+found images, found sounds and found texts&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/on-art-made-with-software/" />
+        </entry>
+        <entry>
+            <title>
+                website as story
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/website-as-story/</id>
+            <content type="html">
+                &lt;p&gt;site art&lt;br /&gt;
+website as concrete poetry&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/website-as-story/" />
+        </entry>
+        <entry>
+            <title>
+                neutrino
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/neutrino/</id>
+            <content type="html">
+                &lt;p&gt;A fundamental particle that does not interact with other types of matter.&lt;/p&gt;
+&lt;p&gt;It is a really good option for making quantum wire (see &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-circuits/&quot;&gt;Quantum Circuits&lt;/a&gt;) but because of the same property, it becomes really difficult to design &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Quantum Logic Gates&lt;/a&gt; for it which can manipulate its&#39; state in a controlled manner.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/neutrino/" />
+        </entry>
+        <entry>
+            <title>
+                quantum30
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/index/</id>
+            <content type="html">
+                &lt;h2 id=&quot;daily-entries&quot; tabindex=&quot;-1&quot;&gt;daily entries&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-1/&quot;&gt;day 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-2/&quot;&gt;day 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-3/&quot;&gt;day 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-4/&quot;&gt;day 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-5/&quot;&gt;day 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-8/&quot;&gt;day 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/day-9/&quot;&gt;day 9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/index/" />
+        </entry>
+        <entry>
+            <title>
+                day 9
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-9/</id>
+            <content type="html">
+                &lt;p&gt;Today&#39;s videos were quite low on information. And since I am already continuing with Quantum Country, a lot of the information that was delivered, I already knew.&lt;/p&gt;
+&lt;p&gt;There were two key takeaways though which I will list here and then pull into other notes at some later point in time&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As the size of transistors gets smaller, there is a chance for them to stop working in the intended manner since electrons start exhibiting the phenomenon of &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-tunnelling/&quot;&gt;Quantum tunnelling&lt;/a&gt;. This is a key reason why people began thinking of building Quantum computers (?)&lt;/li&gt;
+&lt;li&gt;Quantum computers are not a replacement for classical computers.
+&lt;ul&gt;
+&lt;li&gt;Every operation on a quantum computer is not faster.&lt;/li&gt;
+&lt;li&gt;Certain kinds of problems are easier to solve with quantum computers since it takes an exponentially smaller number of steps to solve compared to classical computers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-9/" />
+        </entry>
+        <entry>
+            <title>
+                day 8
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-8/</id>
+            <content type="html">
+                &lt;p&gt;I am finding that the end of first week and the beginning of second week has not been as enthusiastic for me as it was initially. To some extent, I am failing to connect with the material as much and the fact that all of it is in video format does not help. There seems to be this illusion of understanding something but I feel like I actually don&#39;t, and if someone were to dig deeper they would realise that the foundation for all this new information doesn&#39;t exist.&lt;/p&gt;
+&lt;p&gt;Anyway, I think that is why this has taken me quite some time to get back to, but get back we shall.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hadamard Gate -&amp;gt; &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Quantum Logic Gates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-entanglement/&quot;&gt;Quantum Entanglement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-8/" />
+        </entry>
+        <entry>
+            <title>
+                day 5
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-5/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/stern-gerlach-experiment/&quot;&gt;Stern-Gerlach Experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/heisenberg-uncertainty-principle/&quot;&gt;Heisenberg Uncertainty Principle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-5/" />
+        </entry>
+        <entry>
+            <title>
+                day 4
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-4/</id>
+            <content type="html">
+                &lt;p&gt;Today started with Quantum Country and then I moved on to the videos for today. And I have to say that combining both of these resources has been interesting but I am also realising that it seems like I am making more steady progress with Quantum Country rather than the videos.&lt;/p&gt;
+&lt;p&gt;here it goes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-state/&quot;&gt;Quantum State&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Quantum Logic Gates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-circuits/&quot;&gt;Quantum Circuits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schrodinger was a polygamist. When he decided to derive the Wave Function, he moved to a cabin, without his wife/s and was surrounded by young women. In this period of a few months, he produced the four influential papers.&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-4/" />
+        </entry>
+        <entry>
+            <title>
+                day 3
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-3/</id>
+            <content type="html">
+                &lt;p&gt;I was planning to make some progress with Quantum Country today as well but then I got hit with some biology happening in my uterus so could not proceed. But here are a few observations from today&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-field-theory/&quot;&gt;Quantum Field Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;There are 3 fundamental particles ( well 12 actually )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;lightest&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;heaviest&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;electron&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;muon&lt;/td&gt;
+&lt;td&gt;tau&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/neutrino/&quot;&gt;neutrino&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;muon quark&lt;/td&gt;
+&lt;td&gt;tau quark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;up quark&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;strange quark&lt;/td&gt;
+&lt;td&gt;bottom quark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;down quark&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;charm quark&lt;/td&gt;
+&lt;td&gt;up quark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;forces&lt;/th&gt;
+&lt;th&gt;fields&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;gravity&lt;/td&gt;
+&lt;td&gt;space time&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;electro magnetic&lt;/td&gt;
+&lt;td&gt;electro magnetic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;strong force (holds together nucleus)&lt;/td&gt;
+&lt;td&gt;gluon field&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;weak force (radioactive decay)&lt;/td&gt;
+&lt;td&gt;w z bozon field&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;higgs particle&lt;/td&gt;
+&lt;td&gt;higgs field (responsible for mass)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;proton is 2 up quarks and 1 down quark&lt;/li&gt;
+&lt;li&gt;neutron is 2 down quarks and 1 up quark&lt;/li&gt;
+&lt;li&gt;Vacuum is made of fields - Quantum Vacuum Fluctuations&lt;/li&gt;
+&lt;li&gt;Ideas of unification
+&lt;ul&gt;
+&lt;li&gt;Grand Unified Theory&lt;/li&gt;
+&lt;li&gt;Super symmetry&lt;/li&gt;
+&lt;li&gt;String theory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-3/" />
+        </entry>
+        <entry>
+            <title>
+                day 2
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-2/</id>
+            <content type="html">
+                &lt;p&gt;I started to read &lt;a href=&quot;https://quantum.country/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Quantum Country&lt;/a&gt; today. I think it is a much better resource for me compared to watching videos. It is also quite an interesting approach to learning so I am looking forward to progressing with it.&lt;/p&gt;
+&lt;p&gt;Things noted from today&#39;s videos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Deterministic world&lt;/a&gt; vs &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Probabilistic world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Measurement collapses the wave function
+&lt;ul&gt;
+&lt;li&gt;It is not actually known how this happens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Superposition and the double slip experiment&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-entanglement/&quot;&gt;Quantum Entanglement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/quantum-tunnelling/&quot;&gt;Quantum tunnelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/heisenberg-uncertainty-principle/&quot;&gt;Heisenberg Uncertainty Principle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/&quot;&gt;computers are a fundamental feature of the universe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;qubit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-2/" />
+        </entry>
+        <entry>
+            <title>
+                day 1
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-1/</id>
+            <content type="html">
+                &lt;p&gt;Today will be the first day of this one month long learning challenge.&lt;br /&gt;
+Initially I had thought of using substack for publishing my daily learning notes, but obsidian seems like a much better idea for further refinement and continued learning.&lt;/p&gt;
+&lt;p&gt;A list of interesting points&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Humans are a mathematical anomaly&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;do we romanticise being made of stardust? short answer, yes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;singularity is a tricky concept. highly possible for it not to exist.&lt;/li&gt;
+&lt;li&gt;there is a smallest unit of time. one Planck time.&lt;/li&gt;
+&lt;li&gt;grand unified force is a khichdi of electromagnetic, gravitation, weak and strong force.
+&lt;ul&gt;
+&lt;li&gt;what is the naming convention being weak and strong forces?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Information cannot travel faster than light but space can.
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;causality&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;where does mass come from
+&lt;ul&gt;
+&lt;li&gt;Higgs Field being massless vs gaining non zero potential&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;There are more particles than anti particles
+&lt;ul&gt;
+&lt;li&gt;this is a huge reason for why the universe is the way it is&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Big Bang Nucleosynthesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/cosmic-microwave-background/&quot;&gt;Cosmic Microwave Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quantum mechanics predicts all the elements in the periodic table&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://opheliagame.github.io/notes/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Footnotes&lt;/p&gt;
+&lt;hr class=&quot;footnotes-sep&quot; /&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YCQPw9pbZnk&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.youtube.com/watch?v=YCQPw9pbZnk&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tq_y1qOmUBE&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://www.youtube.com/watch?v=tq_y1qOmUBE&lt;/a&gt; &lt;a href=&quot;https://opheliagame.github.io/notes/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/day-1/" />
+        </entry>
+        <entry>
+            <title>
+                computers are a fundamental feature of the universe
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/</id>
+            <content type="html">
+                &lt;p&gt;David Hilbert&lt;br /&gt;
+is there an algorithm to find out if a mathematical theorem is provable&lt;/p&gt;
+&lt;p&gt;Alan Turing&lt;br /&gt;
+there is a general purpose computing device that can follow any algorithm&lt;/p&gt;
+&lt;p&gt;David Deutsch&lt;br /&gt;
+Is there a (single) universal computing device which can efficiently simulate any other physical system?&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/" />
+        </entry>
+        <entry>
+            <title>
+                Stern-Gerlach Experiment
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/stern-gerlach-experiment/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://opheliagame.github.io/img/user/new-notes/quantum30/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-09%20085042.png&quot; alt=&quot;スクリーンショット 2023-08-09 085042.png&quot; /&gt;&lt;img src=&quot;https://opheliagame.github.io/img/user/new-notes/quantum30/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-09%20085240.png&quot; alt=&quot;スクリーンショット 2023-08-09 085240.png&quot; /&gt;&lt;img src=&quot;https://opheliagame.github.io/img/user/new-notes/quantum30/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-09%20085202.png&quot; alt=&quot;スクリーンショット 2023-08-09 085202.png&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/stern-gerlach-experiment/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum tunnelling
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-tunnelling/</id>
+            <content type="html">
+                &lt;p&gt;Particle have a probability to move (are they actually moving?) through a barrier, given the barrier is thin enough.&lt;br /&gt;
+Nuclear fusion in the sun, when two hydrogen molecules combine to produce helium, happens with quantum tunnelling.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-tunnelling/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum State
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-state/</id>
+            <content type="html">
+                &lt;p&gt;The state of a &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;qubit&lt;/a&gt; is a vector of unit length in 2D complex vector space called state space&lt;/p&gt;
+&lt;p&gt;There are two basis states &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.566ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.64ex&quot; height=&quot;2.262ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -750 1167 1000&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(778,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; and &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.566ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.64ex&quot; height=&quot;2.262ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -750 1167 1000&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(278,0)&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(778,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; and several superposition states for eg. &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.566ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;15.589ex&quot; height=&quot;2.262ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -750 6890.4 1000&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;TeXAtom&quot; data-mjx-texclass=&quot;ORD&quot;&gt;&lt;g data-mml-node=&quot;mn&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;2E&quot; d=&quot;M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z&quot; transform=&quot;translate(500,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;36&quot; d=&quot;M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z&quot; transform=&quot;translate(778,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(1278,0) translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(1556,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(2056,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(2667.2,0)&quot;&gt;&lt;path data-c=&quot;2B&quot; d=&quot;M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(3667.4,0)&quot;&gt;&lt;path data-c=&quot;2212&quot; d=&quot;M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(4445.4,0)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;2E&quot; d=&quot;M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z&quot; transform=&quot;translate(500,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;path data-c=&quot;38&quot; d=&quot;M70 417T70 494T124 618T248 666Q319 666 374 624T429 515Q429 485 418 459T392 417T361 389T335 371T324 363L338 354Q352 344 366 334T382 323Q457 264 457 174Q457 95 399 37T249 -22Q159 -22 101 29T43 155Q43 263 172 335L154 348Q133 361 127 368Q70 417 70 494ZM286 386L292 390Q298 394 301 396T311 403T323 413T334 425T345 438T355 454T364 471T369 491T371 513Q371 556 342 586T275 624Q268 625 242 625Q201 625 165 599T128 534Q128 511 141 492T167 463T217 431Q224 426 228 424L286 386ZM250 21Q308 21 350 55T392 137Q392 154 387 169T375 194T353 216T330 234T301 253T274 270Q260 279 244 289T218 306L210 311Q204 311 181 294T133 239T107 157Q107 98 150 60T250 21Z&quot; transform=&quot;translate(778,0)&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(5723.4,0) translate(0 -0.5)&quot;&gt;&lt;path data-c=&quot;7C&quot; d=&quot;M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(6001.4,0)&quot;&gt;&lt;path data-c=&quot;31&quot; d=&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; transform=&quot;translate(6501.4,0)&quot;&gt;&lt;path data-c=&quot;27E9&quot; d=&quot;M55 732Q56 739 61 744T75 750Q85 750 92 740Q95 733 186 494T278 250T187 6T92 -240Q85 -250 75 -250Q67 -250 62 -245T55 -232Q55 -227 145 11Q236 248 236 250T145 489Q55 727 55 732Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow data-mjx-texclass=&quot;ORD&quot;&gt;&lt;mn&gt;0.6&lt;/mn&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;0.8&lt;/mn&gt;&lt;mo data-mjx-texclass=&quot;ORD&quot; stretchy=&quot;false&quot;&gt;|&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;⟩&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt;&lt;/p&gt;
+&lt;p&gt;Q. What is the meaning of the quantum state&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-state/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum Field Theory
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-field-theory/</id>
+            <content type="html">
+                &lt;p&gt;A theory that combines Quantum Mechanics with Faraday&#39;s idea of &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/fields/&quot;&gt;Fields&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-field-theory/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum Entanglement
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-entanglement/</id>
+            <content type="html">
+                &lt;p&gt;Two particles interact with each other and get linked in a manner that measuring one particle allows us to instantaneously know what the other particle will be irrespective of the distance between them&lt;/p&gt;
+&lt;p&gt;Einstein (EPR) thought the particles had hidden variables and called this &lt;em&gt;spooky action at a distance&lt;/em&gt;. But since then it has been shown through experiments based on the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Bell inequality test&lt;/a&gt; that this is not true and non locality exists.&lt;/p&gt;
+&lt;p&gt;After entanglement, the particles do not remain distinct entities and are described by the same wave function. So it makes no sense to theorize that they are communicating across a distance.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-entanglement/" />
+        </entry>
+        <entry>
+            <title>
+                Quantum Circuits
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-circuits/</id>
+            <content type="html">
+                &lt;p&gt;The simplest quantum circuit is the Quantum Wire&lt;/p&gt;
+&lt;p&gt;Systems which make good quantum wires are difficult to build quantum gates for.&lt;br /&gt;
+One of these systems is a &lt;a class=&quot;internal-link&quot; data-note-icon=&quot;&quot; href=&quot;https://opheliagame.github.io/new-notes/quantum30/neutrino/&quot;&gt;neutrino&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/quantum-circuits/" />
+        </entry>
+        <entry>
+            <title>
+                Heisenberg Uncertainty Principle
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/heisenberg-uncertainty-principle/</id>
+            <content type="html">
+                &lt;p&gt;Conjugate variables have complementarity, which means that they cannot be measured at the same time.&lt;br /&gt;
+For example, frequency and time are conjugate. To measure frequency more accurately you need to spend more time.&lt;/p&gt;
+&lt;p&gt;It is only possible to certainly measure one of either position or momentum of a particle.&lt;/p&gt;
+&lt;p&gt;This is not due to a limitation of measuring devices.&lt;/p&gt;
+&lt;p&gt;When the position is known accurately, the momentum becomes uncertain and vice versa.&lt;/p&gt;
+&lt;p&gt;Uncertainty principle is explained by the mathematical fact that the wave function of momentum is the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://opheliagame.github.io/404&quot;&gt;Fourier transform&lt;/a&gt; of the wave function of position.&lt;/p&gt;
+&lt;p&gt;One possible explanation as to why this happens in below&lt;br /&gt;
+to know position of something you have to shine light on it&lt;br /&gt;
+at quantum scales, light is made of photons which have energy and momentum&lt;/p&gt;
+&lt;p&gt;There are two scenarios&lt;br /&gt;
+smaller wavelength light will have high energy photons&lt;br /&gt;
+can get a good image &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.025ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.179ex&quot; height=&quot;1.645ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1405 727&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D465&quot; d=&quot;M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; is low but since the photon is high energy it moves the particle and &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.439ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.023ex&quot; height=&quot;2.059ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1336 910&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D45D&quot; d=&quot;M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;p&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; becomes high&lt;br /&gt;
+higher wavelength light will have low energy photons&lt;br /&gt;
+will get a blurry image &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.025ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.179ex&quot; height=&quot;1.645ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1405 727&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D465&quot; d=&quot;M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; is high but since the photon is low energy it doesn&#39;t move the particle and &lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; style=&quot;direction: ltr; position: relative;&quot;&gt;&lt;svg style=&quot;overflow: visible; min-height: 1px; min-width: 1px; vertical-align: -0.439ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.023ex&quot; height=&quot;2.059ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -716 1336 910&quot; aria-hidden=&quot;true&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;394&quot; d=&quot;M51 0Q46 4 46 7Q46 9 215 357T388 709Q391 716 416 716Q439 716 444 709Q447 705 616 357T786 7Q786 4 781 0H51ZM507 344L384 596L137 92L383 91H630Q630 93 507 344Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mi&quot; transform=&quot;translate(833,0)&quot;&gt;&lt;path data-c=&quot;1D45D&quot; d=&quot;M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z&quot; style=&quot;stroke-width: 3;&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;mjx-assistive-mml unselectable=&quot;on&quot; display=&quot;inline&quot; style=&quot;top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; padding: 1px 0px 0px 0px; border: 0px; display: block; width: auto; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Δ&lt;/mi&gt;&lt;mi&gt;p&lt;/mi&gt;&lt;/math&gt;&lt;/mjx-assistive-mml&gt;&lt;/mjx-container&gt; becomes low&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/heisenberg-uncertainty-principle/" />
+        </entry>
+        <entry>
+            <title>
+                Fields
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/fields/</id>
+            <content type="html">
+                &lt;p&gt;A fluid like substance&lt;br /&gt;
+spread everywhere in the universe&lt;br /&gt;
+has a value at every point in space&lt;br /&gt;
+changes over time&lt;/p&gt;
+&lt;p&gt;Fundamental building blocks of the universe are Fields&lt;/p&gt;
+&lt;p&gt;The best theories in physics rely on Fields rather than particles&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/fields/" />
+        </entry>
+        <entry>
+            <title>
+                Cosmic Microwave Background
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/cosmic-microwave-background/</id>
+            <content type="html">
+                &lt;p&gt;Temperature of the universe cools down to 3000K. This reduces the energy of electrons so they bind to the nucleus and first atoms are created.&lt;/p&gt;
+&lt;p&gt;Photons become free to move around and light is observed.&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/quantum30/cosmic-microwave-background/" />
+        </entry>
+        <entry>
+            <title>
+                on art made with software
+                
+            </title>
+            <updated>2023-10-15T12:49:29Z</updated>
+            <id>https://opheliagame.github.io/notes//new-notes/new-notes/on-art-made-with-software/</id>
+            <content type="html">
+                &lt;p&gt;new media art&lt;br /&gt;
+found images, found sounds and found texts&lt;/p&gt;
+
+            </content>
+            <link href="https://opheliagame.github.io/notes//new-notes/new-notes/on-art-made-with-software/" />
+        </entry>
+</feed>
