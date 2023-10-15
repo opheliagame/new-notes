@@ -1,15 +1,23 @@
 [
 {
 		"title": "hello",
-		"date":"Sun Oct 15 2023 12:16:55 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:23:39 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/second/\">second</a>",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
+		"title": "Big Bang Nucleosynthesis",
+		"date":"Sun Oct 15 2023 12:23:39 GMT+0000 (Coordinated Universal Time)",
+		"url":"/new-notes/quantum30/big-bang-nucleosynthesis/",
+		"content": "Some neutrons combine with other neutrons to make more stable configurations.\nOther neutrons decay into protons.\nElectrons are not bound because of high energy.\n75% hydrogen, 25% helium\n87% protons, 13% neutrons",
+		"tags": [ "note"]
+},
+
+{
 		"title": "second",
-		"date":"Sun Oct 15 2023 12:16:55 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 12:23:39 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/second/",
 		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/\">hello</a>",
 		"tags": [ "note"]
