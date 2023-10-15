@@ -512,5 +512,6 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
+    pathPrefix: '/new-notes/'
   };
 };
