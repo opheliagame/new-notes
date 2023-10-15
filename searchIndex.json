@@ -1,15 +1,15 @@
 [
 {
 		"title": "hello",
-		"date":"Sun Oct 15 2023 11:52:49 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 11:55:27 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/second/\">second</a>",
+		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/new-notes/second/\">second</a>",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
 		"title": "second",
-		"date":"Sun Oct 15 2023 11:52:49 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 11:55:27 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-notes/second/",
 		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/\">hello</a>",
 		"tags": [ "note"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "second",
-		"date":"Sun Oct 15 2023 11:52:49 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Oct 15 2023 11:55:27 GMT+0000 (Coordinated Universal Time)",
 		"url":"/second/",
 		"content": "<a class=\"internal-link\" data-note-icon=\"undefined\" href=\"/\">hello</a>",
 		"tags": [ "note"]
