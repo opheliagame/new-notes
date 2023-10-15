@@ -269,7 +269,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2023-10-15T13:06:39.588Z';
+        const searchIndexDate = '2023-10-15T13:06:43.448Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -281,9 +281,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2023-10-15T13:06:39.588Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2023-10-15T13:06:43.448Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2023-10-15T13:06:39.588Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2023-10-15T13:06:43.448Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -535,7 +535,7 @@
 <li><a class="internal-link" data-note-icon="" href="/quantum30/day-1/">day 1</a></li>
 <li><a class="internal-link" data-note-icon="" href="/quantum30/day-2/">day 2</a></li>
 <li><a class="internal-link" data-note-icon="" href="/quantum30/day-3/">day 3</a></li>
-<li><a class="internal-link is-unresolved" href="/404">day 4</a></li>
+<li><a class="internal-link" data-note-icon="" href="/quantum30/day-4/">day 4</a></li>
 <li><a class="internal-link" data-note-icon="" href="/quantum30/day-5/">day 5</a></li>
 <li><a class="internal-link" data-note-icon="" href="/quantum30/day-8/">day 8</a></li>
 <li><a class="internal-link" data-note-icon="" href="/quantum30/day-9/">day 9</a></li>
