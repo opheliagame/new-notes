@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/big-bang-nucleosynthesis/"}
+{"dg-publish":true,"permalink":"/quantum30/big-bang-nucleosynthesis/"}
 ---
 
 Some neutrons combine with other neutrons to make more stable configurations.

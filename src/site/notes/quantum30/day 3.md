@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/day-3/"}
+{"dg-publish":true,"permalink":"/quantum30/day-3/"}
 ---
 
 I was planning to make some progress with Quantum Country today as well but then I got hit with some biology happening in my uterus so could not proceed. But here are a few observations from today
 
-- [[new-notes/quantum30/Quantum Field Theory\|Quantum Field Theory]] 
+- [[quantum30/Quantum Field Theory\|Quantum Field Theory]] 
 - There are 3 fundamental particles ( well 12 actually )
 
 | lightest |  | heaviest |
 | ---- | ---- | ---- |
 | **electron** | muon | tau |
-| [[new-notes/quantum30/neutrino\|neutrino]] | muon quark | tau quark |
+| [[quantum30/neutrino\|neutrino]] | muon quark | tau quark |
 | **up quark** | strange quark | bottom quark |
 | **down quark** | charm quark | up quark |
 

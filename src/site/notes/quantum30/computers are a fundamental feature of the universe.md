@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/computers-are-a-fundamental-feature-of-the-universe/"}
+{"dg-publish":true,"permalink":"/quantum30/computers-are-a-fundamental-feature-of-the-universe/"}
 ---
 
 David Hilbert 

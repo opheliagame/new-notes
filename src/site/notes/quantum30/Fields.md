@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/fields/"}
+{"dg-publish":true,"permalink":"/quantum30/fields/"}
 ---
 
 A fluid like substance 

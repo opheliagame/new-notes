@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/qubit/"}
+{"dg-publish":true,"permalink":"/quantum30/qubit/"}
 ---
 
 quantum version of a bit 

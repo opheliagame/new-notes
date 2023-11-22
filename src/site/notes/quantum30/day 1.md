@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/day-1/"}
+{"dg-publish":true,"permalink":"/quantum30/day-1/"}
 ---
 
 Today will be the first day of this one month long learning challenge. 
@@ -18,8 +18,8 @@ A list of interesting points
 	- Higgs Field being massless vs gaining non zero potential 
 - There are more particles than anti particles
 	- this is a huge reason for why the universe is the way it is
-- [[new-notes/quantum30/Big Bang Nucleosynthesis\|Big Bang Nucleosynthesis]]
-- [[new-notes/quantum30/Cosmic Microwave Background\|Cosmic Microwave Background]]
+- [[quantum30/Big Bang Nucleosynthesis\|Big Bang Nucleosynthesis]]
+- [[quantum30/Cosmic Microwave Background\|Cosmic Microwave Background]]
 - Quantum mechanics predicts all the elements in the periodic table[^2]
 
 

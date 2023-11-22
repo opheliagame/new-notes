@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-notes/quantum30/heisenberg-uncertainty-principle/"}
+{"dg-publish":true,"permalink":"/quantum30/heisenberg-uncertainty-principle/"}
 ---
 
 Conjugate variables have complementarity, which means that they cannot be measured at the same time. 
@@ -11,7 +11,7 @@ This is not due to a limitation of measuring devices.
 
 When the position is known accurately, the momentum becomes uncertain and vice versa.
 
-Uncertainty principle is explained by the mathematical fact that the wave function of momentum is the [[new-notes/quantum30/Fourier transform\|Fourier transform]] of the wave function of position. 
+Uncertainty principle is explained by the mathematical fact that the wave function of momentum is the [[quantum30/Fourier transform\|Fourier transform]] of the wave function of position. 
 
 One possible explanation as to why this happens in below 
 	to know position of something you have to shine light on it
